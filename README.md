@@ -1,5 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Station Counter
 
-## Supporting Scrimba
-
-Following tutorial from scrimba.com/playlist/pY5b7sQ
+Followed tutorial from scrimba.com/playlist/pY5b7sQ
+Nothing to see here
